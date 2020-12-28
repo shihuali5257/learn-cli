@@ -17,7 +17,6 @@
     "ora": "^5.1.0"
   },
   "bin": {
-    "build-react": "./bin/react-cli.js",
-    "shl": "./bin/deploy.js"
+    "react-cli": "./bin/react-cli.js"
   }
 }
