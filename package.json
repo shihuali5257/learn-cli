@@ -17,7 +17,7 @@
     "ora": "^5.1.0"
   },
   "bin": {
-    "react-cli": "./bin/react-cli.js"
+    "shlcli": "./bin/react-cli.js"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org",
